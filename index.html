@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index.css" />
+    <title>Awesome Books</title>
+  </head>
+  <body>
+    <nav class="navigation">
+      <small> Awesome Books</small>
+      <div class="navcontainer">
+        <a class="list">List</a>
+        <a class="add-new">Add new</a>
+        <a class="contact">Contact</a>
+      </div>
+    </nav>
+   <small id="datetime"></small>
+      
+    
+    <main class="main">
+        <h1>All Awesome Books</h1>
+      <div class="dynamic">
+        <ul id="list"></ul>
+      </div>
+    </main>
+    
+      <section class="add-books">
+        <h2>Add a new book</h2>
+        <form action="" id="form1">
+          <input
+            type="text"
+            name="title"
+            id="title"
+            placeholder="Title"
+          /><br />
+          <input
+            type="text"
+            name="author"
+            id="author"
+            placeholder="Author"
+          /><br /><br />
+          <input type="submit" value="Add" id="submit" />
+        </form>
+      </section>
+    <section class="contactinfo">
+        <h2 class="contactinformation">
+            Contact Information
+        </h2>
+        <p>Do you have any questions or you just want to say "Hello"? <br>
+            You can reach out to us! 
+            <ul>
+                <li class="cli">Our email fuadamoin@gmail.com / baqar007@hotmail.com </li>
+                <li class="cli">Our phone number 00435865344422</li>
+                <li class="cli">Our adress Streethome 22, 84503 City, Country</li>
+            </ul>
+        </p>
+    </section>
+   
+
+    <footer class="footer">
+      <small>Copyright ...</small>
+    </footer>
+    <script type="module" src="index.js"></script>
+  </body>
+</html>
