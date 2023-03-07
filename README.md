@@ -48,7 +48,7 @@ HTML CSS and JavaScript
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
-> The website will be hosted in the future.
+> https://baqar-abbas.github.io/Awesome-Books-ES6-Modules/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,7 +80,7 @@ Add a Book on Awesome books Website and view the list of available books and the
 Test Add, remove and available list. 
 
 ### Deployment
-This Project will be deployed after final approval.
+https://baqar-abbas.github.io/Awesome-Books-ES6-Modules/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
